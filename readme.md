@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 ## <img src="https://i.hizliresim.com/g4yov4w.jpg" height="300"/>
 
 <img src="https://img.shields.io/github/stars/openai/gpt-2?label=Stars" alt="stars">
