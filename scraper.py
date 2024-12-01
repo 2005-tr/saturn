@@ -6,7 +6,7 @@ from urllib.parse import urljoin
 
 def get_book_links():
     # Base URL for the Gutenberg Index API
-    base_url = 'https://gutendex.com/books/'
+    base_url = 'https://gutendex.com/'
     links = {}  # Initialize a dictionary to store all links
     
     # Make API calls for each page number
